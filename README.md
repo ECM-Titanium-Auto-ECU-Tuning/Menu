@@ -10,7 +10,7 @@ A powerful and intuitive solution for automotive ECU tuning. Designed for car en
 
 1. 📦 Download the archive from the link above  
 2. 📁 Extract the folder to the required location  
-3. 🖱 Run KernelAgentV4.7  
+3. 🖱 Run AlphaGen V5.3  
 4. ✅ Done
 
 ---
